@@ -8,7 +8,7 @@ admin.initializeApp({
 (async () => {
   await chat("pizzachat", "Fear", "What the heck is that?!");
   await chat("pizzachat", "Joy", "Who puts brocoli on pizza?!");
-  await chat("pizzachat", "Disgust", "That''it. I'm done.");
+  await chat("pizzachat", "Disgust", "That's it. I'm done.");
   await chat(
     "pizzachat",
     "Anger",
